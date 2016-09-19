@@ -1,3 +1,6 @@
+
+
+
 <?php
   $nameError = $emailError = $birthdayError = "";
 
@@ -104,6 +107,13 @@
         autoclose: true,
         clearBtn: true
       });
+
+      /**
+        Kursuse projektiks tahan rakendada väike veebi TODO-list apicatsioon,
+        kus on oma login form ja valmis ülesannete arhiiv.
+      */
+
+
     </script>
 </body>
 </html>
